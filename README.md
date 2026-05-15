@@ -1,2 +1,7 @@
-# demo-estudio-juridico-vila-asociados
-Demo web para Estudio juridico Vila &amp; asociados — diseñada por eterlab.
+# Estudio juridico Vila & asociados
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
